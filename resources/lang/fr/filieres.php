@@ -1,0 +1,42 @@
+<?php
+    return[
+    ''       => '',
+    'L1RI'   => 'Licence 1 - Réseau Informatique',
+    'L1RT'   => 'Licence 1 - Réseau Télécommunication',
+    'L1II'   => 'Licence 1 - Informatique Industrielle',
+    'L1CS'   => 'Licence 1 - Cyber Sécurité',
+    'L1M'    => 'Licence 1 - Multimédia',
+    'L1GDA'  => 'Licence 1 - Géomatique et Développement d\'Applications',
+    'L1IAGE' => 'Licence 1 - Informatique Appliquée à la Gestion des Entreprises',
+    'L1GL'   => 'Licence 1 - Génie Logiciel',
+
+    'L2RI'   => 'Licence 2 - Réseau Informatique',
+    'L2RT'   => 'Licence 2 - Réseau Télécommunication',
+    'L2II'   => 'Licence 2 - Informatique Industrielle',
+    'L2CS'   => 'Licence 2 - Cyber Sécurité',
+    'L2M'    => 'Licence 2 - Multimédia',
+    'L2GDA'  => 'Licence 2 - Géomatique et Développement d\'Applications',
+    'L2IAGE' => 'Licence 2 - Informatique Appliquée à la Gestion des Entreprises',
+    'L2GL'   => 'Licence 2 - Génie Logiciel',
+
+    'L3RI'   => 'Licence 3 - Réseau Informatique',
+    'L3RT'   => 'Licence 3 - Réseau Télécommunication',
+    'L3II'   => 'Licence 3 - Informatique Industrielle',
+    'L3CS'   => 'Licence 3 - Cyber Sécurité',
+    'L3M'    => 'Licence 3 - Multimédia',
+    'L3GDA'  => 'Licence 3 - Géomatique et Développement d\'Applications',
+    'L3IAGE' => 'Licence 3 - Informatique Appliquée à la Gestion des Entreprises',
+    'L3GL'   => 'Licence 3 - Génie Logiciel',
+
+    'M1RI'   => 'Master 1 - Réseau Informatique',
+    'M1RT'   => 'Master 1 - Réseau Télécommunication',
+    'M1CS'   => 'Master 1 - Cyber Sécurité',
+    'M1IAGE' => 'Master 1 - Informatique Appliquée à la Gestion des Entreprises',
+    'M1GL'   => 'Master 1 - Génie Logiciel',
+
+    'M2RI'   => 'Master 2 - Réseau Informatique',
+    'M2RT'   => 'Master 2 - Réseau Télécommunication',
+    'M2CS'   => 'Master 2 - Cyber Sécurité',
+    'M2IAGE' => 'Master 2 - Informatique Appliquée à la Gestion des Entreprises',
+    'M2GL'   => 'Master 2 - Génie Logiciel',
+];

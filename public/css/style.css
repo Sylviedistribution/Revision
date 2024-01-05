@@ -1,0 +1,29 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px; /* Ajustez selon vos besoins */
+}
+
+th {
+    text-align: center;
+    padding: 8px;
+    background-color: #f2f2f2; /* Couleur de fond du titre, ajustez selon vos besoins */
+}
+
+td {
+    text-align: center; /* Ajustez selon vos besoins */
+    padding: 8px;
+    border-bottom: 1px solid #ddd; /* Ligne de séparation entre les lignes, ajustez selon vos besoins */
+}
+
+/* Pour changer la couleur du fond en rouge au survol */
+#deconnexion:hover {
+    background-color: red !important; /* !important pour s'assurer que la couleur sera appliquée */
+}
+
+/* Pour étirer l'élément à la largeur maximale */
+#deconnexion{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
